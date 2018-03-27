@@ -1,9 +1,11 @@
 # ReSwitched Logos
 
-## Full-size Logo
+#### Reswitched Team Logo
 
-![Full-sized {ReSwitched} Logo](https://raw.githubusercontent.com/reswitched/logos/master/reswitched/full/full.png)
+| [Square](https://github.com/reswitched/logos/tree/master/reswitched/square) | [Full-size](https://github.com/reswitched/logos/tree/master/reswitched/full)  |
+|:------:|:-----:|
+| ![Square {R} logo](https://github.com/reswitched/logos/blob/master/reswitched/square/2x_square.png?raw=true) | ![Full-sized {ReSwitched} logo](https://github.com/reswitched/logos/blob/master/reswitched/full/2x_full.png?raw=true) |
 
-## Square Logo
+**Colors:** `#515159` (background), `#4BDDB3` (green)
 
-![Square {R} Logo](https://raw.githubusercontent.com/reswitched/logos/master/reswitched/square/square.png)
+**Fonts:** [Rubik](https://fonts.google.com/specimen/Rubik)
